@@ -1,0 +1,11 @@
+RFC 1234 – Example Technical Document
+
+Internet Standards Process
+
+Bradner Best Current Practice
+
+The following speciﬁcation describes a proto­col used
+for communication between distributed sys­tems.
+
+Some documents contain invisible characters or corrupted bytes
+that interfere with automated text processing.
