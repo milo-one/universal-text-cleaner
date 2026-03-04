@@ -1,0 +1,16 @@
+12 Einführung in die Systemanalyse
+
+Die Analyse komplexer Systeme erfordert eine Kombination
+aus theoretischen und praktischen Methoden.
+
+- 12 –
+
+Ein wichtiger Bestandteil ist die Modellbildung,
+die es erlaubt, reale Prozesse abstrahiert darzustellen.
+
+[Seite 13]
+
+13 Einführung in die Systemanalyse
+
+Dabei werden häufig verschiedene Ebenen der Beschreibung
+unterschieden.

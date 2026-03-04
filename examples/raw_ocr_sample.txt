@@ -1,0 +1,7 @@
+Die charakterisier— ten Eigenschaften dieser Systeme sind oft schwer zu analysieren.
+In vielen digi­talisierten Texten treten hy­phenierte Worttrennungen auf.
+
+Diese entstehen häufig durch OCR-Prozesse oder schlechte PDF-Extraktion.
+
+Ein weiteres Problem sind unsichtbare Zeichen wie ​Zero Width Spaces​,
+die in vielen Dokumenten auftreten.

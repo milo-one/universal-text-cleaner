@@ -1,0 +1,1 @@
+Systemanalyse Die Analyse komplexer Systeme erfordert eine Kombination aus theoretischen und praktischen Methoden. Ein wichtiger Bestandteil ist die Modellbildung, die es erlaubt, reale Prozesse abstrahiert darzustellen. Systemanalyse Dabei werden häufig verschiedene Ebenen der Beschreibung unterschieden.
